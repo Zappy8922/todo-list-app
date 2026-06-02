@@ -24,4 +24,4 @@ Then open `index.html` with Live Server in VS Code.
 
 ## Deploy
 
-_ссылка появится после деплоя_
+https://todo-list-nxtqfjppw-cubby-projects1.vercel.app 
