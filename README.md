@@ -1,8 +1,9 @@
 # Todo List App
-
+[![Maintainability](https://qlty.sh/gh/Zappy8922/projects/todo-list-app/maintainability.svg)](https://qlty.sh/gh/Zappy8922/projects/todo-list-app) 
 A fully functional Todo List application built with Vanilla JavaScript using The Elm Architecture (TEA) pattern.
 
 Users can add, edit, delete and filter todo items. Data is saved to localStorage so todos persist after page refresh.
+
 
 ## Stack
 
@@ -41,4 +42,4 @@ The app follows The Elm Architecture (TEA) pattern with three core parts:
 - Delete items
 - Mark items as complete
 - Filter by All / Active / Completed
-- Data persists in localStorage
+- Data persists in localStorage 
