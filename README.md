@@ -25,3 +25,20 @@ Then open `index.html` with Live Server in VS Code.
 ## Deploy
 
 https://todo-list-nxtqfjppw-cubby-projects1.vercel.app 
+
+## Architecture
+
+The app follows The Elm Architecture (TEA) pattern with three core parts:
+
+- **Model** - the app state (list of todos, current route)
+- **Update** - pure function that transforms the model based on actions
+- **View** - renders the model to the DOM
+
+## Features
+
+- Add new todo items
+- Edit existing items (double-click)
+- Delete items
+- Mark items as complete
+- Filter by All / Active / Completed
+- Data persists in localStorage
