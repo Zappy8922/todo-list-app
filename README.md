@@ -43,3 +43,5 @@ The app follows The Elm Architecture (TEA) pattern with three core parts:
 - Mark items as complete
 - Filter by All / Active / Completed
 - Data persists in localStorage 
+
+![Демо работы](demo/demo.gif)
